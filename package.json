@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nivo/line": "^0.84.0",
+    "country-iso-2-to-3": "^1.1.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "python-shell": "^5.0.0"
+  }
+}
